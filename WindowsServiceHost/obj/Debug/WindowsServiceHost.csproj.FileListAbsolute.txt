@@ -1,0 +1,13 @@
+E:\Study\Code\WCF\Host_Windows_Services\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe.config
+E:\Study\Code\WCF\Host_Windows_Services\WindowsServiceHost\bin\Debug\WindowsServiceHost.exe
+E:\Study\Code\WCF\Host_Windows_Services\WindowsServiceHost\bin\Debug\WindowsServiceHost.pdb
+E:\Study\Code\WCF\Host_Windows_Services\WindowsServiceHost\bin\Debug\CalculatorLibrary.dll
+E:\Study\Code\WCF\Host_Windows_Services\WindowsServiceHost\bin\Debug\CalculatorLibrary.pdb
+E:\Study\Code\WCF\Host_Windows_Services\WindowsServiceHost\bin\Debug\CalculatorLibrary.dll.config
+E:\Study\Code\WCF\Host_Windows_Services\WindowsServiceHost\obj\Debug\WindowsServiceHost.csproj.AssemblyReference.cache
+E:\Study\Code\WCF\Host_Windows_Services\WindowsServiceHost\obj\Debug\WindowsServiceHost.ProjectInstaller.resources
+E:\Study\Code\WCF\Host_Windows_Services\WindowsServiceHost\obj\Debug\WindowsServiceHost.csproj.GenerateResource.cache
+E:\Study\Code\WCF\Host_Windows_Services\WindowsServiceHost\obj\Debug\WindowsServiceHost.csproj.CoreCompileInputs.cache
+E:\Study\Code\WCF\Host_Windows_Services\WindowsServiceHost\obj\Debug\WindowsServiceHost.csproj.CopyComplete
+E:\Study\Code\WCF\Host_Windows_Services\WindowsServiceHost\obj\Debug\WindowsServiceHost.exe
+E:\Study\Code\WCF\Host_Windows_Services\WindowsServiceHost\obj\Debug\WindowsServiceHost.pdb
